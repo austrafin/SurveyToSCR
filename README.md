@@ -1,0 +1,2 @@
+# SurveyToSCR
+This program creates an AutoCAD script file which inserts survey points on a drawing with desired color, layer, and description text size. User imports a CSV survey file which is in PENZD (point, easting, northing, elevation, description) format. The program then groups and lists the survey points with the same description and then the user can select a dedicated colour, layer and other parameters for each. The exported file is a script file which can be run in any version of AutoCAD.
